@@ -198,7 +198,7 @@ EV_Charging_Station_PowerBI_Dashboard
 📊 Interactive Dashboard File
 -------------------------------
 
-👉 **[Download the Power BI Dashboard](01_Dashboard/EV_Charging_Station_Dashboard.pbix)**
+👉 **[Download the Power BI Dashboard](01_Dashboard/Ev_Charging_Station_Dashboard.pbix)**
 
 You can download and explore the dashboard using Microsoft Power BI.
 
