@@ -177,7 +177,7 @@ tend to show higher utilization rates.
 -------------------------
 
 EV_Charging_Station_PowerBI_Dashboard
-│
+
 ├── 01_Dashboard
 │   └── EV_Charging_Dashboard.pbix
 │
@@ -195,9 +195,10 @@ EV_Charging_Station_PowerBI_Dashboard
 └── README.md
 📁 Dashboard File
 
-The full interactive dashboard is available inside:
+📊 Interactive Dashboard File
+-------------------------------
 
-01_Dashboard/EV_Charging_Dashboard.pbix
+👉 **[Download the Power BI Dashboard](01_Dashboard/EV_Charging_Station_Dashboard.pbix)**
 
 You can download and explore the dashboard using Microsoft Power BI.
 
