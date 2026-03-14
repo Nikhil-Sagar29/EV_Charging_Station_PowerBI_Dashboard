@@ -1,8 +1,9 @@
-##⚡ EV Charging Station Analytics Dashboard
+⚡ EV Charging Station Analytics Dashboard
 -----------------------------------------------------
 
 📊 Power BI Data Visualization Project
 ----------------------------------------
+
 This project presents an interactive analytics dashboard developed using Microsoft Power BI to analyze EV charging station infrastructure, demand patterns, customer experience, and operational efficiency.
 
 The dashboard transforms large-scale EV charging data into actionable insights for infrastructure planning and operational optimization.
