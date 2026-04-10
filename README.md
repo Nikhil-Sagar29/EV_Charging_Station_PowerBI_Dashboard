@@ -179,21 +179,30 @@ tend to show higher utilization rates.
 EV_Charging_Station_PowerBI_Dashboard
 
 ├── 01_Dashboard
-│   └── EV_Charging_Dashboard.pbix
-│
+
+│   └── * EV_Charging_Dashboard.pbix
+
 ├── 02_dashboard_screenshots
-│   ├── 01_Home_Page.png
-│   ├── 02_Overview.png
-│   ├── 03_City_rankings.png
-│   ├── 04_Demand_and_wait_analysis.png
-│   ├── 05_Peak_Hour_analysis.png
-│   ├── 06_Port_distribution.png
-│   ├── 07_Customer_experience.png
-│   ├── 08_Local_event_analysis.png
-│   └── 09_Amenities_Analysis.png
-│
-└── README.md
-📁 Dashboard File
+
+│   └── * Home_Page.png
+
+│   └── * Overview.png
+
+│   └── * City_rankings.png
+
+│   └── * Demand_and_wait_analysis.png
+
+│   └── * Peak_Hour_analysis.png
+
+│   └── * Port_distribution.png
+
+│   └── * Customer_experience.png
+
+│   └── * Local_event_analysis.png
+
+│   └── * Amenities_Analysis.png
+
+│── README.md
 
 📊 Interactive Dashboard File
 -------------------------------
